@@ -1,0 +1,1 @@
+x=msgbox("Uh Oh! CMDOS did not know what to do because of what you typed. This is because whatever you did is not in the code. Next time type the options on the screen, ok?", ok, "Uh Oh!")
